@@ -1,4 +1,4 @@
-# wb8_homework_w2
+# wb8_homework_week_2
 
 ## Completed tasks:
 
