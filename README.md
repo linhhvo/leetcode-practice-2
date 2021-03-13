@@ -2,8 +2,6 @@
 
 ## Completed tasks:
 
-## To-do tasks:
-
 Hash maps and sets:
 
 * https://leetcode.com/problems/jewels-and-stones
@@ -11,6 +9,11 @@ Hash maps and sets:
 * https://leetcode.com/problems/happy-number
 * https://leetcode.com/problems/uncommon-words-from-two-sentences
 * https://leetcode.com/problems/distribute-candies
+
+## To-do tasks:
+
+Hash maps and sets:
+
 * https://leetcode.com/problems/groups-of-special-equivalent-strings
 * https://leetcode.com/problems/intersection-of-two-arrays
 * https://leetcode.com/problems/valid-sudoku
